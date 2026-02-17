@@ -1,0 +1,7 @@
+Name,Power,Endurance,Speed,Intelligence,Perception,Charm
+Cloaking,3,0,0,0,0,-2
+Gigantification,3,3,-3,2,0,0
+Hunter's Sense,1,0,1,0,3,-1
+Immediate Combustion,-99,-99,-99,-99,-99,-99
+Larger Mind,0,-1,0,4,2,1
+Radiance,0,0,-1,0,2,3
